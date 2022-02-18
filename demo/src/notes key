@@ -1,0 +1,6 @@
+ctrl D                     ---> highlight same word,click again to change on similar words
+option + click             ---> change in all clicked places.
+option + uparrow/downarrow ---> move the particular line up or down.
+option + shift  + up/down  ---> copy the particular line up or down. 
+command + /                ---> command
+               ---> command
